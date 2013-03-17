@@ -1,0 +1,110 @@
+#overflowcontainer{
+	margin-left: auto;
+	margin-right: auto;
+	width: 1200px;
+	left: 0px;
+	right: 0px;
+	height: 100%;
+	min-height: 700px;
+	position: absolute;
+}
+#searchbar{
+	position: absolute;
+	top: 150px;
+	width: 400px;
+	margin-left: auto;
+	margin-right: auto;	
+	left:0px;
+	right: 0px;
+	height: 50px;
+}
+#results{
+	position: absolute;
+	top: 270px;
+	width: 300px;
+	left: 20px;
+	height: 300px;
+}
+#resultsheader{
+	position: absolute;
+	top: 240px;
+	left: 20px;
+	width: 260px;
+	height: 25px;
+	text-align: center;
+	font-size: 20px;
+}
+#add{
+	left: 300px;
+	top: 340px;
+	width: 120px;
+	height: 50px;
+	position: absolute;
+}
+#addall{
+	left: 300px;
+	top: 380px;
+	width: 120px;
+	height: 50px;
+	position: absolute;
+}
+#remove{
+	left: 300px;
+	top: 420px;
+	width: 120px;
+	height: 50px;
+	position: absolute;
+}
+#removeall{
+	left: 300px;
+	top: 460px;
+	width: 120px;
+	height: 50px;
+	position: absolute;
+}
+#contactlist{
+	position: absolute;
+	top: 270px;
+	width: 300px;
+	left: 420px;
+	height: 300px;
+}
+#contactlistheader{
+	position: absolute;
+	top: 240px;
+	left: 420px;
+	width: 260px;
+	height: 25px;
+	text-align: center;
+	font-size: 20px;
+}
+#message{
+	position: absolute;
+	top: 270px;
+	width: 300px;
+	left: 720px;
+	height: 300px;
+}
+#messageheader{
+	position: absolute;
+	top: 240px;
+	left: 720px;
+	width: 260px;
+	height: 25px;
+	text-align: center;
+	font-size: 20px;
+}
+#textoremail{
+	position: absolute;
+	top: 220px;
+	left: 60px;
+	height: 60px;
+	width: 100px;
+}
+#submit{
+	position: absolute;
+	top: 225px;
+	left: 145px;
+	height: 40px;
+	width: 100px;
+}
